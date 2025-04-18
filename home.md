@@ -1,11 +1,12 @@
 ---
-title: "Welcome to Elements of Mathematics"
+permalink: /
 layout: single
 math: true
 author_profile: true
 ---
-I try to learn the core areas of modern mathematics exhaustively; then I  
-try to digest that knowledge by posting here. 
+Welcome to Elements of Mathematics! I try to learn the core areas
+of modern mathematics exhaustively; then I try to digest that 
+knowledge by posting here. 
 
 Elements of Mathematics is also available under the alternative domain
 [https://maths.ac.nz](https://maths.ac.nz). There is no comment section
