@@ -1,4 +1,5 @@
 ---
+classes: wide
 last_modified_at: 2025-04-19
 math: true
 title: "Associativity in a vector space"
@@ -103,9 +104,7 @@ We use complete induction on $k$ here. Lemma for $k=1$ reads $\mathbf{f}(\mathbf
 the statement is true for all numbers $l< k$. Then
 
 $$\begin{align*}
-\mathbf{f}(\mathbf{v}_1,\ldots,\mathbf{v}_k)&=\mathbf{g}(\mathbf{v}_1,\ldots,\mathbf{v}_l)+\mathbf{h}\mathbf{v}_(\mathbf{v}_{l+1},\ldots,\mathbf{v}_k)\\
+\mathbf{f}(\mathbf{v}_1,\ldots,\mathbf{v}_k)&=\mathbf{g}(\mathbf{v}_1,\ldots,\mathbf{v}_l)+\mathbf{h}(\mathbf{v}_{l+1},\ldots,\mathbf{v}_k)\\
 &=(\mathbf{v}_1+\cdots+\mathbf{v}_l)+(\mathbf{v}_{l+1}+\cdots+\mathbf{v}_k)\\
 &=\mathbf{v}_1+\cdots+\mathbf{v}_k.
 \end{align*}$$
-
-
